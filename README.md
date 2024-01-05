@@ -1,4 +1,4 @@
-# Web Programming HW#2
+# Music Playlist
 
 ## Run the app
 
